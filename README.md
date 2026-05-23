@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm Raees</h1>
-<h3 align="center">Full Stack Software Engineer | UI/UX Designer | Web Developer</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Engineer;Laravel+Developer;ASP.NET+Developer;React+%26+Tailwind+CSS+Developer;Building+Modern+Web+Applications" alt="Typing SVG" />
-</p>
+<h1 align="center">Hi 👋, I'm Khaibar Raeeskhil</h1>
+<h3 align="center">Full Stack Software Engineer | ASP.NET & Laravel Developer</h3>
 
 ---
 
@@ -11,98 +7,101 @@
 
 - 🔭 I’m currently working on *Nangarhar Medical Faculty Management System*
 - 🌱 I’m currently learning *Laravel, React, REST APIs, and Advanced UI/UX*
-- 👯 I’m looking to collaborate on *Full Stack Projects*
-- 🤝 I’m looking for help with *System Architecture & Scalable Applications*
-- 💬 Ask me about *ASP.NET, Laravel, SQL Server, React, Tailwind CSS*
-- 📫 Reach me at: **khaibarraeeskhil@gmail.com*
-- ⚡ Fun fact: *I love creating modern and user-friendly websites*
+- 👯 I’m looking to collaborate on *Full Stack Web Applications*
+- 💬 Ask me about *ASP.NET Core, C#, Laravel, SQL Server, React, Tailwind CSS*
+- 📫 Reach me at **khaibarraeeskhil@gmail.com*
+- ⚡ Fun fact: *I love building modern and user-friendly web applications*
+
+---
+
+## 🛠️ Skills
+
+### Frontend
+- HTML5
+- CSS3
+- Tailwind CSS
+- JavaScript (ES6+)
+- React.js
+
+### Backend
+- ASP.NET Core
+- Laravel
+- PHP
+- C#
+
+### Database
+- SQL Server
+- MySQL
+- Entity Framework Core
+
+### Tools
+- Git & GitHub
+- Visual Studio
+- VS Code
+- XAMPP
+
+---
+
+## 💼 Featured Projects
+
+### 🏥 Nangarhar Medical Faculty Management System
+Complete faculty management website with multilingual support, admin dashboard, authentication system, dark/light mode, and responsive UI.
+
+*Tech Stack:* Laravel, Tailwind CSS, MySQL, JavaScript
+
+---
+
+### 🛍️ Fashion E-Commerce Website
+Modern and responsive e-commerce website for clothing, shoes, accessories, and fashion products with attractive UI/UX design.
+
+*Tech Stack:* React.js, Tailwind CSS, Laravel, MySQL
+
+---
+
+### 🌐 Personal Portfolio Website
+Professional portfolio website showcasing my projects, skills, technologies, and experience with modern responsive design.
+
+🔗 Portfolio Link:  
+https://khaibaraeeskhil.vercel.app
+
+*Tech Stack:* HTML, CSS, JavaScript, Tailwind CSS
+
+---
+
+### 🏦 Bank Management System
+Desktop-based banking management system with customer accounts, transactions, and reporting features.
+
+*Tech Stack:* C#, SQL Server, Windows Forms
+
+---
+
+### ✂️ Tailor Management System
+Management system for tailoring businesses with order tracking and customer management.
+
+*Tech Stack:* C#, SQL Server
+
+---
+
+## 🎓 Education
+
+*Nangarhar University*  
+Bachelor of Computer Science (2022 – 2026)
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://github.com/yourusername" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
-
-<a href="https://linkedin.com/in/yourusername" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-
-<a href="https://facebook.com/yourusername" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=facebook" height="40" />
-</a>
-</p>
-
----
-
-## 🛠️ Languages and Tools
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=html" height="50"/>
-<img src="https://skillicons.dev/icons?i=css" height="50"/>
-<img src="https://skillicons.dev/icons?i=js" height="50"/>
-<img src="https://skillicons.dev/icons?i=typescript" height="50"/>
-<img src="https://skillicons.dev/icons?i=react" height="50"/>
-<img src="https://skillicons.dev/icons?i=tailwind" height="50"/>
-<img src="https://skillicons.dev/icons?i=bootstrap" height="50"/>
-<img src="https://skillicons.dev/icons?i=php" height="50"/>
-<img src="https://skillicons.dev/icons?i=laravel" height="50"/>
-<img src="https://skillicons.dev/icons?i=dotnet" height="50"/>
-<img src="https://skillicons.dev/icons?i=cs" height="50"/>
-<img src="https://skillicons.dev/icons?i=mysql" height="50"/>
-<img src="https://skillicons.dev/icons?i=mongodb" height="50"/>
-<img src="https://skillicons.dev/icons?i=git" height="50"/>
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
-<img src="https://skillicons.dev/icons?i=vscode" height="50"/>
-
-</p>
+- GitHub: https://github.com/khaibar raeeskhil
+- Portfolio: https://khaibaraeeskhil.vercel.app
+- LinkedIn: https://linkedin.com/in/khaibar-raeeskhil
+- Email: khaibarraeeskhil@gmail.com
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="180em" />
+![](https://github-readme-stats.vercel.app/api?username=khaibar-raeeskhil&show_icons=true&theme=tokyonight)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" height="180em" />
-</p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=khaibar-raeeskhil&theme=tokyonight)
 
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 Featured Projects
-
-### 🏥 Nangarhar Medical Faculty Management System
-> A complete faculty management system with multilingual support, admin dashboard, student management, and modern UI.
-
-### 🛍️ Fashion E-Commerce Website
-> Modern online shopping platform built using React, Tailwind CSS, and Laravel.
-
-### 💼 Personal Portfolio Website
-> Responsive portfolio website showcasing projects, skills, and experience.
-
----
-
-## 👀 Profile Views
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
-</p>
-
----
-
-## 💡 Quote
-
-<p align="center">
-  <i>"Code. Create. Innovate."</i>
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=khaibar-raeeskhil&layout=compact&theme=tokyonight)
