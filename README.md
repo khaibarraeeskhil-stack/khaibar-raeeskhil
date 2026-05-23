@@ -56,12 +56,12 @@
 
 ### 🗄️ Database
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlserver,sqlite" />
+<img src="https://skillicons.dev/icons?i=mysql,sql server,sqlite" />
 </p>
 
 ### 🛠️ Tools & Technologies
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,postman,xampp" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,xampp" />
 </p>
 
 ---
