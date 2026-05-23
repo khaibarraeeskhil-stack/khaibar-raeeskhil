@@ -56,7 +56,7 @@
 
 ### 🗄️ Database
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+<img src="https://skillicons.dev/icons?i=mysql,sql,sqlite" />
 </p>
 
 ### 🛠️ Tools & Technologies
