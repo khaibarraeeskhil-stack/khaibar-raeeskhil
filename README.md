@@ -51,7 +51,7 @@
 
 ### ⚙️ Backend
 <p>
-<img src="https://skillicons.dev/icons?i=php,laravel,dotnet,cs,nodejs" />
+<img src="https://skillicons.dev/icons?i=php,laravel,dotnet,cs" />
 </p>
 
 ### 🗄️ Database
