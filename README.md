@@ -1,107 +1,155 @@
 <h1 align="center">Hi 👋, I'm Khaibar Raeeskhil</h1>
-<h3 align="center">Full Stack Software Engineer | ASP.NET & Laravel Developer</h3>
+
+<h3 align="center">
+  Full Stack Software Engineer | Laravel & ASP.NET Developer
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Engineer;ASP.NET+Core+Developer;Laravel+Developer;React+%26+Tailwind+CSS+Developer;Building+Modern+Web+Applications" />
+</p>
 
 ---
+
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on *Nangarhar Medical Faculty Management System*
-- 🌱 I’m currently learning *Laravel, React, REST APIs, and Advanced UI/UX*
-- 👯 I’m looking to collaborate on *Full Stack Web Applications*
-- 💬 Ask me about *ASP.NET Core, C#, Laravel, SQL Server, React, Tailwind CSS*
+- 🔭 Currently working on *Nangarhar Medical Faculty Management System*
+- 🌱 Learning *Laravel, React, REST APIs & Advanced UI/UX*
+- 👨‍💻 All of my projects are available on my GitHub
+- 💬 Ask me about *ASP.NET Core, Laravel, SQL Server, React & Tailwind CSS*
 - 📫 Reach me at **khaibarraeeskhil@gmail.com*
-- ⚡ Fun fact: *I love building modern and user-friendly web applications*
+- 🌐 Portfolio: *https://khaibaraeeskhil.vercel.app*
+- ⚡ Fun fact: *I love building modern and responsive web applications*
 
 ---
 
-## 🛠️ Skills
+## 🌐 Connect With Me
 
-### Frontend
-- HTML5
-- CSS3
-- Tailwind CSS
-- JavaScript (ES6+)
-- React.js
+<p align="left">
+<a href="https://github.com/khaibar-raeeskhil" target="blank">
+<img src="https://skillicons.dev/icons?i=github" height="45" />
+</a>
 
-### Backend
-- ASP.NET Core
-- Laravel
-- PHP
-- C#
+<a href="https://linkedin.com/in/khaibar-raeeskhil" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+</a>
 
-### Database
-- SQL Server
-- MySQL
-- Entity Framework Core
-
-### Tools
-- Git & GitHub
-- Visual Studio
-- VS Code
-- XAMPP
+<a href="https://khaibaraeeskhil.vercel.app" target="blank">
+<img src="https://skillicons.dev/icons?i=vercel" height="45" />
+</a>
+</p>
 
 ---
 
-## 💼 Featured Projects
+# 💻 Tech Stack
 
-### 🏥 Nangarhar Medical Faculty Management System
-Complete faculty management website with multilingual support, admin dashboard, authentication system, dark/light mode, and responsive UI.
+### 🎨 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,vite" />
+</p>
+
+### ⚙️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=php,laravel,dotnet,cs,nodejs" />
+</p>
+
+### 🗄️ Database
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+</p>
+
+### 🛠️ Tools & Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,postman,xampp" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🏥 Nangarhar Medical Faculty Management System
+✔️ Complete faculty management website with multilingual support  
+✔️ Admin dashboard, authentication & CRUD system  
+✔️ Dark/Light mode with responsive modern UI  
 
 *Tech Stack:* Laravel, Tailwind CSS, MySQL, JavaScript
 
 ---
 
-### 🛍️ Fashion E-Commerce Website
-Modern and responsive e-commerce website for clothing, shoes, accessories, and fashion products with attractive UI/UX design.
+## 🛍️ Fashion E-Commerce Website
+✔️ Modern fashion shopping website  
+✔️ Product filtering, categories & responsive design  
+✔️ Clean UI/UX for clothes, shoes & accessories  
 
 *Tech Stack:* React.js, Tailwind CSS, Laravel, MySQL
 
 ---
 
-### 🌐 Personal Portfolio Website
-Professional portfolio website showcasing my projects, skills, technologies, and experience with modern responsive design.
+## 🌐 Personal Portfolio Website
+✔️ Professional portfolio website  
+✔️ Responsive modern design  
+✔️ Showcasing projects, skills & experience  
 
-🔗 Portfolio Link:  
+🔗 *Live Demo:*  
 https://khaibaraeeskhil.vercel.app
 
 *Tech Stack:* HTML, CSS, JavaScript, Tailwind CSS
 
 ---
 
-### 🏦 Bank Management System
-Desktop-based banking management system with customer accounts, transactions, and reporting features.
+## 🏦 Bank Management System
+✔️ Desktop banking management application  
+✔️ Customer accounts, transactions & reports  
 
 *Tech Stack:* C#, SQL Server, Windows Forms
 
 ---
 
-### ✂️ Tailor Management System
-Management system for tailoring businesses with order tracking and customer management.
+## ✂️ Tailor Management System
+✔️ Tailoring business management application  
+✔️ Customer & order management system  
 
 *Tech Stack:* C#, SQL Server
 
 ---
 
-## 🎓 Education
+# 📊 GitHub Stats
 
-*Nangarhar University*  
-Bachelor of Computer Science (2022 – 2026)
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=khaibar-raeeskhil&show_icons=true&theme=tokyonight" />
 
----
-
-## 🌐 Connect With Me
-
-- GitHub: https://github.com/khaibar raeeskhil
-- Portfolio: https://khaibaraeeskhil.vercel.app
-- LinkedIn: https://linkedin.com/in/khaibar-raeeskhil
-- Email: khaibarraeeskhil@gmail.com
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaibar-raeeskhil&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+# 🔥 GitHub Streak
 
-![](https://github-readme-stats.vercel.app/api?username=khaibar-raeeskhil&show_icons=true&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=khaibar-raeeskhil&theme=tokyonight" />
+</p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=khaibar-raeeskhil&theme=tokyonight)
+---
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=khaibar-raeeskhil&layout=compact&theme=tokyonight)
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=khaibar-raeeskhil&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=khaibar-raeeskhil&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+# 💡 Quote
+
+<p align="center">
+  <i>"Code. Create. Innovate."</i>
+</p>
